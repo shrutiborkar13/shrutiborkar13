@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shrutiborkar13
-- 👀 I’m interested in cultural activities like dance. I am a proffesional dancer and sometimes an artist.
-- 🌱 I’m currently learning C and tad bit of python.
+- 🌱 I'm am proficient in python and enjoy navigaing complex anlalytical problems.
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me shrutiborkarwork@gmail.com
 

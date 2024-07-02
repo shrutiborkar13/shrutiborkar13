@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shrutiborkar13
+- 👋 Hi, I’m Shruti Borkar
 - 🌱 I'm am proficient in python and enjoy navigaing complex anlalytical problems.
-- 💞️ I’m looking to collaborate on small projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me shrutiborkarwork@gmail.com
 
 <!---
